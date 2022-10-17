@@ -1,4 +1,4 @@
 # Creating Printf Function
 ### collaborators
 * Ayo Adekunle --
-* Tiamiyu Olanrewaju--
+* Tiamiyu Samad Olanrewaju--
