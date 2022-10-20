@@ -1,4 +1,4 @@
-.TH _PRINTF "1" "10 JULY 2022" "0x11. C - printf"
+Ji.TH _PRINTF "1" "10 JULY 2022" "0x11. C - printf"
 .SH NAME
 _printf - print data according to a format
 .SH SYNOPSIS
@@ -31,5 +31,5 @@ In the Example print the value of text with %s give the format of text.
 .SH SEE ALSO
 .I printf (3)
 .SH AUTHOR
-IYEBHORA Samuel ( sammykingx )
-ADEYEMI Timmy ( Timmypr )
+ADEKUNLE Ayo
+TIAMIYU Olanrewaju
